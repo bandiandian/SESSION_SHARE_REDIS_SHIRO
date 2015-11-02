@@ -1,2 +1,7 @@
 # SESSION_SHARE_REDIS_SHIRO
 实现session共享，redis存储，重写shiro中的session manager
+
+重写shiro中的sessionManager，改由redis存储session信息，从而达到session共享，
+
+前端利用nginx可以达到web服务器的负载均衡。
+
