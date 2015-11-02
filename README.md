@@ -1,0 +1,2 @@
+# SESSION_SHARE_REDIS_SHIRO
+实现session共享，redis存储，重写shiro中的session manager
